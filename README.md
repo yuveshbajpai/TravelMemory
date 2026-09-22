@@ -1,4 +1,4 @@
-# TravelMemory - MERN Stack Deployment on AWS EC2
+# TravelMemory – Cloud Deployment with Custom Domain, Cloudflare & AWS Load Balancer
 
 ## Project Overview
 
@@ -32,7 +32,6 @@ Backend API:
 https://api.yuveshkb.site/trip
 
 The `/trip` endpoint is used to retrieve the travel experiences stored in MongoDB.
-
 
 ---
 
